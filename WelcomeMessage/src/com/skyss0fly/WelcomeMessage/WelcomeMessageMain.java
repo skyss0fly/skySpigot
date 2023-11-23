@@ -1,7 +1,4 @@
 package com.skyss0fly.WelcomeMessage;
-
-package skyss0fly.welcomemessage;
-
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.event.Listener;
 import cn.nukkit.event.player.PlayerJoinEvent;
